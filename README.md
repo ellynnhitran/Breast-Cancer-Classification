@@ -22,6 +22,8 @@ Breast Cancer Wisconsin (Diagnostic) Dataset
 - Import Cancer data from the Sklearn library
 - Visualize the data
 - Check the correlation among the variables 
+![Variables](https://github.com/ellynnhitran/Breast-Cancer-Classification/blob/master/variables.png)
+
 
 ## Train model
 - Split train and test set by sklearn.
@@ -30,6 +32,7 @@ Breast Cancer Wisconsin (Diagnostic) Dataset
 - Tuned hyper-parameters by GridSearchCV
 
 ## Accuracy: 97%
+![Accuracy](https://github.com/ellynnhitran/Breast-Cancer-Classification/blob/master/accuracy%20report.png)
 
 
 *Reference:
