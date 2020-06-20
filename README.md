@@ -1,7 +1,7 @@
 ## Breast Cancer Classification
 
 ```
-Tran Tue Nhi
+Author: Dr. Ryan Ahmed
 ```
 This script runs using Python 3.
 
